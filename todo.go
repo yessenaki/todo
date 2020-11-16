@@ -6,7 +6,7 @@ type TodoList struct {
 	Description string `json:"description"`
 }
 
-type UserList struct {
+type UsersList struct {
 	ID     int
 	UserID int
 	ListID int
@@ -19,7 +19,7 @@ type TodoItem struct {
 	Done        bool   `json:"done"`
 }
 
-type ListItem struct {
+type ListsItem struct {
 	ID     int
 	ListID int
 	ItemID int

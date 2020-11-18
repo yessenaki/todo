@@ -1,6 +1,6 @@
 # REST API in Go
 
-## The project has implemented::
+## The project has implemented:
 - Developing Go Web Applications according to REST API Design.
 - Working with the <a href="https://github.com/gin-gonic/gin">gin-gonic/gin</a> framework.
 - Clean Architecture. Dependency injection.
